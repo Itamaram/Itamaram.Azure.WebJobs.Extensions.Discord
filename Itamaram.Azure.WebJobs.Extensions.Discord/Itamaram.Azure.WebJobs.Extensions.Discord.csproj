@@ -14,6 +14,7 @@
     <Authors>Itamar Amith</Authors>
     <Description>A custom binding attribute for discord bot</Description>
     <PackageTags>discord webjob function trigger binding</PackageTags>
+    <PackageProjectUrl>https://github.com/Itamaram/Microsoft.Azure.WebJobs.Extensions.Discord</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>

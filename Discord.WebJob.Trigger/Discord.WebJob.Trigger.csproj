@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.Azure.WebJobs.Extensions.Discord\Microsoft.Azure.WebJobs.Extensions.Discord.csproj" />
+    <ProjectReference Include="..\Itamaram.Azure.WebJobs.Extensions.Discord\Itamaram.Azure.WebJobs.Extensions.Discord.csproj" />
   </ItemGroup>
 
   <ItemGroup>

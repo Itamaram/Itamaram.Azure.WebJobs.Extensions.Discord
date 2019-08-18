@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discord.WebJob.Trigger", "Discord.WebJob.Trigger\Discord.WebJob.Trigger.csproj", "{A7A6A098-7456-4A3C-801F-BBFAAC655426}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Azure.WebJobs.Extensions.Discord", "Microsoft.Azure.WebJobs.Extensions.Discord\Microsoft.Azure.WebJobs.Extensions.Discord.csproj", "{15CE77AF-E8A0-4675-9BAA-6C3F07A93E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Itamaram.Azure.WebJobs.Extensions.Discord", "Itamaram.Azure.WebJobs.Extensions.Discord\Itamaram.Azure.WebJobs.Extensions.Discord.csproj", "{15CE77AF-E8A0-4675-9BAA-6C3F07A93E11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
