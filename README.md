@@ -1,9 +1,15 @@
 # Itamaram.Azure.WebJobs.Extensions.Discord
 A custom Azure WebJob input binding trigger for Discord
 
-# Sample Usage:
+# Usage:
 
-Ensure your configuration scope includes a variable named `token` containing your bot's token, and then use the following code to create your webjob:
+* Create a new WebJob project
+* Install the nuget package `Itamaram.Azure.WebJobs.Extensions.Discord`
+* Ensure your configuration scope includes a variable named `token` containing your bot's token
+* Call `AddDiscord` in your `ConfigureWebJobs`
+* Get triggered
+
+# Sample Code
 
 ```csharp
   public class Program
